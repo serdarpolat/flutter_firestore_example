@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549888693359",
+    "firebase_url": "https://bandnamesession.firebaseio.com",
+    "project_id": "bandnamesession",
+    "storage_bucket": "bandnamesession.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549888693359:android:c50ec329908311f7",
+        "android_client_info": {
+          "package_name": "com.example.frstrone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549888693359-d25r8p116gccgrkf979dg1cubootitem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATsUnERBu94m9NJjcxB2tgFoIJPbLIy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
